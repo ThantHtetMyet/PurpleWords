@@ -1,0 +1,15 @@
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\bin\Debug\net5.0\PW.Modules.Course.deps.json
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\bin\Debug\net5.0\PW.Modules.Course.dll
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\bin\Debug\net5.0\ref\PW.Modules.Course.dll
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\bin\Debug\net5.0\PW.Modules.Course.pdb
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\bin\Debug\net5.0\PW.Modules.Base.dll
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\bin\Debug\net5.0\PW.Modules.Base.pdb
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\obj\Debug\net5.0\PW.Modules.Course.csproj.AssemblyReference.cache
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\obj\Debug\net5.0\PW.Modules.Course.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\obj\Debug\net5.0\PW.Modules.Course.AssemblyInfoInputs.cache
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\obj\Debug\net5.0\PW.Modules.Course.AssemblyInfo.cs
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\obj\Debug\net5.0\PW.Modules.Course.csproj.CoreCompileInputs.cache
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\obj\Debug\net5.0\PW.Modules.Course.csproj.CopyComplete
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\obj\Debug\net5.0\PW.Modules.Course.dll
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\obj\Debug\net5.0\ref\PW.Modules.Course.dll
+D:\ThantHtetMyet\API\PW\PW.Modules.Course\obj\Debug\net5.0\PW.Modules.Course.pdb

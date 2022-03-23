@@ -1,0 +1,12 @@
+D:\ThantHtetMyet\API\PW\PW.Modules.Base\bin\Debug\net5.0\PW.Modules.Base.deps.json
+D:\ThantHtetMyet\API\PW\PW.Modules.Base\bin\Debug\net5.0\PW.Modules.Base.dll
+D:\ThantHtetMyet\API\PW\PW.Modules.Base\bin\Debug\net5.0\ref\PW.Modules.Base.dll
+D:\ThantHtetMyet\API\PW\PW.Modules.Base\bin\Debug\net5.0\PW.Modules.Base.pdb
+D:\ThantHtetMyet\API\PW\PW.Modules.Base\obj\Debug\net5.0\PW.Modules.Base.csproj.AssemblyReference.cache
+D:\ThantHtetMyet\API\PW\PW.Modules.Base\obj\Debug\net5.0\PW.Modules.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThantHtetMyet\API\PW\PW.Modules.Base\obj\Debug\net5.0\PW.Modules.Base.AssemblyInfoInputs.cache
+D:\ThantHtetMyet\API\PW\PW.Modules.Base\obj\Debug\net5.0\PW.Modules.Base.AssemblyInfo.cs
+D:\ThantHtetMyet\API\PW\PW.Modules.Base\obj\Debug\net5.0\PW.Modules.Base.csproj.CoreCompileInputs.cache
+D:\ThantHtetMyet\API\PW\PW.Modules.Base\obj\Debug\net5.0\PW.Modules.Base.dll
+D:\ThantHtetMyet\API\PW\PW.Modules.Base\obj\Debug\net5.0\ref\PW.Modules.Base.dll
+D:\ThantHtetMyet\API\PW\PW.Modules.Base\obj\Debug\net5.0\PW.Modules.Base.pdb
